@@ -2,7 +2,7 @@
   <img src="Nurh11.png" alt="Nurh11.png" width="100%" style="max-height: 100px; object-fit: cover;"/>
  <p
    
- [![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-darkgrey?style=social&logo=github&logoColor=black)](https://github.com/ikalmalik)   [![My Instagram](https://img.shields.io/badge/My-Instagram-DD2A7B?style=flat&logo=instagram&logoColor=DD2A7B&labelColor=444444)](https://instagram.com/ikalitsme)   
+ [![GitHub](https://img.shields.io/badge/GitHub-ikalmalik-darkgrey?style=social&logo=github&logoColor=black)](https://github.com/ikalmalik)   [![My Instagram](https://img.shields.io/badge/My-Instagram-DD2A7B?style=flat&logo=instagram&logoColor=DD2A7B&labelColor=444444)](https://instagram.com/nurahanggrn)   
 
 
 
